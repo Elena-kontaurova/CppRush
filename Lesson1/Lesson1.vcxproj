@@ -131,6 +131,7 @@
     <ClCompile Include="kalkul.cpp" />
     <ClCompile Include="peremen.cpp" />
     <ClCompile Include="Vvod.cpp" />
+    <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,19 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\17.10">
+      <UniqueIdentifier>{3daa170a-e933-472c-91d2-2ce507e243a2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="peremen.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Vvod.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\17.10</Filter>
     </ClCompile>
     <ClCompile Include="kalkul.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\17.10</Filter>
+    </ClCompile>
+    <ClCompile Include="peremen.cpp">
+      <Filter>Source Files\17.10</Filter>
+    </ClCompile>
+    <ClCompile Include="Vvod.cpp">
+      <Filter>Source Files\17.10</Filter>
+    </ClCompile>
+    <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp">
+      <Filter>Source Files\17.10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
