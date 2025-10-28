@@ -16,6 +16,9 @@
     <Filter Include="Source Files\17.10">
       <UniqueIdentifier>{3daa170a-e933-472c-91d2-2ce507e243a2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\28:10">
+      <UniqueIdentifier>{4cf31805-cb28-4904-961b-fb34fcf6c1a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -32,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp">
       <Filter>Source Files\17.10</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\28:10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

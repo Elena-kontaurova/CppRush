@@ -130,6 +130,7 @@
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="kalkul.cpp" />
     <ClCompile Include="peremen.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="Vvod.cpp" />
     <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp" />
   </ItemGroup>
