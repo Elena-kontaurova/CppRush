@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-int main() {
+int main7() {
     int n, m, k;
 
     // Читаем количество веществ

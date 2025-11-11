@@ -127,10 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bozhe.cpp" />
     <ClCompile Include="helloworld.cpp" />
     <ClCompile Include="kalkul.cpp" />
     <ClCompile Include="peremen.cpp" />
+    <ClCompile Include="pytia_and_buns.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
     <ClCompile Include="Vvod.cpp" />
     <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp" />
   </ItemGroup>

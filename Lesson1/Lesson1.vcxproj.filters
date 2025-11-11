@@ -19,6 +19,12 @@
     <Filter Include="Source Files\28:10">
       <UniqueIdentifier>{4cf31805-cb28-4904-961b-fb34fcf6c1a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\1.11">
+      <UniqueIdentifier>{cbeedcf0-902d-4e8e-b127-d3e557a85496}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\11.11">
+      <UniqueIdentifier>{a7cab4fb-4200-44b7-9eb0-0c58051ad3a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -38,6 +44,15 @@
     </ClCompile>
     <ClCompile Include="Source.cpp">
       <Filter>Source Files\28:10</Filter>
+    </ClCompile>
+    <ClCompile Include="pytia_and_buns.cpp">
+      <Filter>Source Files\1.11</Filter>
+    </ClCompile>
+    <ClCompile Include="Source1.cpp">
+      <Filter>Source Files\1.11</Filter>
+    </ClCompile>
+    <ClCompile Include="bozhe.cpp">
+      <Filter>Source Files\11.11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
