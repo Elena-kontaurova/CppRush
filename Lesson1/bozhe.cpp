@@ -131,7 +131,7 @@ double gal(const string& expression) {
     return ina.top();
 }
 
-int main() {
+int main111() {
     string expression;  // Переменная для хранения введенного выражения 
 
     // Считываем выражение из стандартного ввода (с клавиатуры или файла)

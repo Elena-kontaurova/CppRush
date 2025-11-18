@@ -25,6 +25,9 @@
     <Filter Include="Source Files\11.11">
       <UniqueIdentifier>{a7cab4fb-4200-44b7-9eb0-0c58051ad3a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\18.11">
+      <UniqueIdentifier>{83b80bd9-868d-4f83-b8fc-2dfd56d62be0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -53,6 +56,15 @@
     </ClCompile>
     <ClCompile Include="bozhe.cpp">
       <Filter>Source Files\11.11</Filter>
+    </ClCompile>
+    <ClCompile Include="Source2.cpp">
+      <Filter>Source Files\18.11</Filter>
+    </ClCompile>
+    <ClCompile Include="Source3.cpp">
+      <Filter>Source Files\18.11</Filter>
+    </ClCompile>
+    <ClCompile Include="Source4.cpp">
+      <Filter>Source Files\18.11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
