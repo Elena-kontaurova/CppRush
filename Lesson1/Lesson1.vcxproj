@@ -137,6 +137,7 @@
     <ClCompile Include="Source2.cpp" />
     <ClCompile Include="Source3.cpp" />
     <ClCompile Include="Source4.cpp" />
+    <ClCompile Include="Source5.cpp" />
     <ClCompile Include="Vvod.cpp" />
     <ClCompile Include="сonversionFromDecimalToTernaryCalculus.cpp" />
   </ItemGroup>
