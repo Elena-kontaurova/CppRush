@@ -31,6 +31,9 @@
     <Filter Include="Source Files\22.11 anna">
       <UniqueIdentifier>{5f112831-e79f-421e-b217-15b471d16b21}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\26.11">
+      <UniqueIdentifier>{2e52feaf-e2d5-4255-b9ab-eb2b8e60bd14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.cpp">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="Source5.cpp">
       <Filter>Source Files\22.11 anna</Filter>
+    </ClCompile>
+    <ClCompile Include="Source6.cpp">
+      <Filter>Source Files\26.11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
